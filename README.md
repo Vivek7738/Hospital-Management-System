@@ -19,8 +19,8 @@ You can view the home page [here](home.html).
 
 ### Patient Dashboard
 
-![Patient Dashboard](assets/patient-dashboard.png)
+![Patient Dashboard](patient/patient_dashboard.phpg)
 
 ### Admin Dashboard
 
-![Admin Dashboard](assets/admin-dashboard.png)
+![Admin Dashboard](Admin/admin_dashboard.php)
