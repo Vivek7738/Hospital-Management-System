@@ -15,7 +15,7 @@ Ensure you have the following installed:
 
 ### Home Page
 
-![Home Page](home.html)
+You can view the home page [here](home.html). 
 
 ### Patient Dashboard
 
@@ -24,5 +24,3 @@ Ensure you have the following installed:
 ### Admin Dashboard
 
 ![Admin Dashboard](assets/admin-dashboard.png)
-
-
