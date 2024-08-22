@@ -15,7 +15,7 @@ Ensure you have the following installed:
 
 ### Home Page
 
-![Home Page](homepage.html)
+![Home Page](home.html)
 
 ### Patient Dashboard
 
