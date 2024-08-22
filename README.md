@@ -11,7 +11,18 @@ Ensure you have the following installed:
 - [XAMPP](https://www.apachefriends.org/index.html) (includes Apache, MySQL, PHP)
 - [Composer](https://getcomposer.org/) (if required for PHP package management)
 
-## Installation
+## Project Output
 
-1. **Clone the repository:**
+### Home Page
+
+![Home Page](homepage.html)
+
+### Patient Dashboard
+
+![Patient Dashboard](assets/patient-dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](assets/admin-dashboard.png)
+
 
