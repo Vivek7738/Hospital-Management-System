@@ -23,4 +23,4 @@ You can view the home page [here](home.html).
 
 ### Admin Dashboard
 
-![Admin Dashboard](Admin/admin_dashboard.php)
+![Admin Dashboard](admin/admin_dashboard.php)
