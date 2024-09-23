@@ -19,8 +19,12 @@ You can view the home page [here](home.html).
 
 ### Patient Dashboard
 
-![Patient Dashboard](patient/patient_dashboard.php)
+![Patient Dashboard](patient/patient-dashboard.php)
 
 ### Admin Dashboard
 
 ![Admin Dashboard](admin/admin_dashboard.php)
+
+### Doctor Dashboard
+
+![Doctor Dashboard](doctor/doctor_dashboard.php)
