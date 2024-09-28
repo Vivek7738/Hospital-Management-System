@@ -199,7 +199,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <?php echo $message; ?>
             </div>
         <?php endif; ?>
-
+        
         <form method="POST" action="add_doctor.php">
             <label for="username">Username:</label>
             <input type="text" id="username" name="username" required>
