@@ -255,7 +255,7 @@ $admin_name = $admin['username'];
             <a href="manage_schedule.php"><i class="fas fa-calendar-alt"></i> Doctor's Schedules</a>
             <a href="register_patient.php"><i class="fas fa-user-plus"></i> Patient Registration</a>
             <a href="manage_records.php"><i class="fas fa-clipboard"></i> Patient Management</a>
-            <a href="manage_invoices.php"><span class="rupee-symbol">₹</span> Manage Invoices</a>
+            <a href="manage_invoices.php"><i class="fas fa-rupee-sign"></i> Manage Invoices</a>
         </div>
     </div>
 

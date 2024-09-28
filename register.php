@@ -28,7 +28,7 @@ function sendOTP($email, $username, $otp, $otp_expiry) {
 
         // Content
         $mail->isHTML(true);                                  
-        $mail->Subject = 'Your OTP Code';
+        $mail->Subject = 'Swasthya Hospital';
         $mail->Body    = "
             <html>
             <head>

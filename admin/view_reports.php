@@ -491,7 +491,7 @@ tr:nth-child(even) {
 
     <div class="d-flex">
     <div class="sidebar">
-    <h2>Manage Schedules</h2>
+    <h2>Reports</h2>
         <div class="nav-links">
             <?php if ($_SESSION['role'] === 'admin'): ?>
                 <a href="admin_dashboard.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a>

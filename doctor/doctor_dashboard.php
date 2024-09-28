@@ -245,10 +245,10 @@ $notificationsResult = $conn->query($notificationsQuery);
                 <a href="../admin/view_reports.php"><i class="fas fa-file-alt"></i> View Reports</a>
                 <a href="../admin/manage_schedule.php"><i class="fas fa-calendar-check"></i> Appointment Scheduling</a>
                 <a href="view_appointments.php"><i class="fas fa-calendar-day"></i> View Appointments</a>
-                <a href="clinical_documentation.php"><i class="fas fa-notes-medical"></i> Clinical Documentation</a>
-                <a href="test_lab_results.php"><i class="fas fa-vials"></i> Test and Lab Results</a>
+                <a href="clinical_documentation.php"><i class="fas fa-notes-medical"></i> Clinical Treatment</a>
+                <a href="test_lab_results.php"><i class="fas fa-vials"></i> Lab Reports</a>
                 <a href="communication.php"><i class="fas fa-comments"></i> Communication</a>
-                <a href="medical.php"><i class="fas fa-prescription-bottle-alt"></i> Medical Orders</a>
+                <a href="medical.php"><i class="fas fa-prescription-bottle-alt"></i> Prescription</a>
                 <a href="billing.php"><i class="fas fa-rupee-sign"></i> Billing</a>
             </div>
         </div>

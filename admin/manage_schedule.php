@@ -439,7 +439,7 @@ table tr:hover {
                 <a href="manage_doctors.php"><i class="fas fa-user-md"></i> Manage Doctors</a>
                 <a href="register_patient.php"><i class="fas fa-user-plus"></i> Patient Registration</a>
                 <a href="manage_records.php"><i class="fas fa-clipboard"></i> Patient Management</a>
-                <a href="manage_invoices.php"><span class="rupee-symbol">₹</span> Manage Invoices</a>
+                <a href="manage_invoices.php"><i class="fas fa-rupee-sign"></i> Manage Invoices</a>
             <?php endif; ?>
 
             <?php if ($_SESSION['role'] === 'doctor'): ?>

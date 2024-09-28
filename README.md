@@ -2,7 +2,7 @@
 
 ## Description
 
-Svasthya is a comprehensive healthcare management system designed to streamline patient care and healthcare administration. This PHP-based application integrates features such as patient registration, doctor management, appointment scheduling, and secure data handling. It utilizes XAMPP for local development and testing.
+SWasthya is a comprehensive healthcare management system designed to streamline patient care and healthcare administration. This PHP-based application integrates features such as patient registration, doctor management, appointment scheduling, and secure data handling. It utilizes XAMPP for local development and testing.
 
 ## Prerequisites
 

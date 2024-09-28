@@ -250,7 +250,7 @@ $doctor = $doctorQuery->fetch_assoc();
         </div>
 
         <div class="dashboard">
-            <h1>Medical Orders</h1>
+            <h1>Prescription</h1>
 
             <form method="post" class="mb-4">
                 <div class="form-group">

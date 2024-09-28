@@ -254,7 +254,7 @@ $name = $conn->query("SELECT username FROM users WHERE role='admin'")->fetch_row
                 <a href="manage_doctors.php"><i class="fas fa-user-md"></i> Manage Doctors</a>
                 <a href="manage_schedule.php"><i class="fas fa-calendar-alt"></i> Doctor's Schedules</a>
                 <a href="manage_records.php"><i class="fas fa-clipboard"></i> Patient Management</a>
-                <a href="manage_invoices.php"><span class="rupee-symbol">₹</span> Manage Invoices</a>
+                <a href="manage_invoices.php"><i class="fas fa-rupee-sign"></i> Manage Invoices</a>
             </div>
         </div>
 

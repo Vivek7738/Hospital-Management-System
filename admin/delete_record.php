@@ -26,3 +26,4 @@ if (isset($_GET['id'])) {
     header("Location: manage_records.php");
     exit;
 }
+?>
