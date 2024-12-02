@@ -23,8 +23,8 @@ You can view the home page [here](home.html).
 
 ### Admin Dashboard
 
-![Admin Dashboard](admin/admin_dashboard.php)
+![Admin Dashboard](admin/admin_dashboard.png)
 
 ### Doctor Dashboard
 
-![Doctor Dashboard](doctor/doctor_dashboard.php)
+![Doctor Dashboard](doctor/doctor_dashboard.png)
