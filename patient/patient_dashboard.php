@@ -266,7 +266,7 @@ $notifications = $conn->query("SELECT * FROM notifications WHERE recipient_group
                 <a href="medical.php"><i class="fas fa-prescription-bottle-alt"></i> My Prescription</a>
                 <a href="billing.php"><i class="fas fa-rupee-sign"></i> My Bills</a>
                 <a href="feedback.php"><i class="fas fa-comment-alt"></i> Feedback</a>
-                <a href="../vivek/form.php">Ai</a>
+                <a href="../vivek/form.php"><i class="fas fa-robot"></i> Ai</a>
             </div>
         </div>
 
