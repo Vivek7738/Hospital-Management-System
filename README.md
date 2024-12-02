@@ -19,7 +19,7 @@ You can view the home page [here](home.html).
 
 ### Patient Dashboard
 
-![Patient Dashboard](patient/patient-dashboard.php)
+![Patient Dashboard](patient/Screenshot 2024-12-02 204509.png)
 
 ### Admin Dashboard
 
