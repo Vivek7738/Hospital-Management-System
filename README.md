@@ -19,7 +19,15 @@ You can view the home page [here](home.html).
 
 ### Patient Dashboard
 
-![Patient Dashboard](patient/patient_dashboard.png)
+![Patient Dashboard](patient/patient_final.png)
+
+### Xray Image Analysis with A.I
+
+![A.I Xray image Analysis](patient/A.I.png)
+
+### Quick Access
+
+![Quick Access](patient/quick_access.png)
 
 ### Admin Dashboard
 
