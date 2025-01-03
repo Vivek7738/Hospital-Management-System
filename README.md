@@ -1,8 +1,12 @@
-# Svasthya Healthcare Management System
+# Swasthya Healthcare Management System
 
 ## Description
 
-Swasthya is a comprehensive healthcare management system designed to streamline patient care and healthcare administration. This PHP-based application integrates features such as patient registration, doctor management, appointment scheduling, and A.I integrated Xray image Analysis with Quick Access and secure data handling. It utilizes XAMPP for local development and testing.
+Swasthya is an advanced and comprehensive healthcare management system meticulously designed to enhance the efficiency of patient care and healthcare administration. Built using PHP, this robust application incorporates a wide range of features to meet the needs of modern healthcare facilities. Key functionalities include seamless patient registration, efficient doctor management, and streamlined appointment scheduling, ensuring smooth coordination between patients and healthcare providers. 
+
+A standout feature of Swasthya is its integration of AI-powered X-ray image analysis, offering quick and accurate diagnostic support to healthcare professionals. This feature not only improves diagnostic accuracy but also expedites the treatment process. The system emphasizes secure data handling to protect sensitive patient information, adhering to modern security protocols. 
+
+For local development and testing, Swasthya leverages XAMPP, providing a reliable environment for developers to implement and refine its functionalities. With its user-friendly interface and cutting-edge capabilities, Swasthya is an indispensable tool for transforming the landscape of healthcare management.
 
 ## Prerequisites
 
